@@ -17,3 +17,6 @@ override.tf.json
 # Editors
 .vscode/
 .idea/
+
+# Claude Code local settings (machine-specific, not shared)
+.claude/settings.local.json
